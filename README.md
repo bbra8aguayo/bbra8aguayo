@@ -1,9 +1,9 @@
-### Hi everyone 👋 I'm Bárbara Aguayo
+### Hi everyone 👋 I'm Bárbara Aguayo ###
 
 <!--
 **bbra8aguayo/bbra8aguayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-About me 🤔:
+## About me 🤔:
 
 - 🔭 I'm currently pursuing a Bachelor's degree in Electrical Engineering ⚡ at the University of Chile
 Concurrently undertaking a Master's degree in Data Science.😄
@@ -16,18 +16,23 @@ Concurrently undertaking a Master's degree in Data Science.😄
 - ⚡ Fun fact: ...
 -->
 
+## About me 🤔:
+
+I'm currently pursuing a Bachelor's degree in Electrical Engineering ⚡ at the University of Chile
+Concurrently undertaking a Master's degree in Data Science.😄
+
 ## Experience 👌
 - Machine Learning and Deep Learning
 - Image Processing, using Convolutional Neural Networks and Vision Transformer
 - Natural Language Processing 
--
--
 
 ## Tech Stack 🛠️
 
 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+👨‍🎓 Also learning: 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 Data Science and Machine Learning Frameworks
 
