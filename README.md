@@ -1,4 +1,4 @@
-### Hi everyone 👋 I'm Bárbara Aguayo ###
+<h1 align="center"> # Hi everyone 👋 I'm Bárbara Aguayo # </h1>
 
 <!--
 **bbra8aguayo/bbra8aguayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
